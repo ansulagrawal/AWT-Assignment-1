@@ -1,0 +1,12 @@
+table {
+   width: 80%;
+   margin: 30px auto;
+   text-align: center;
+}
+
+table,
+th,
+td {
+   border: 1px solid blue;
+   background-color: lightblue;
+}
